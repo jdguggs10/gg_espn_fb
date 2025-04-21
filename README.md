@@ -2,7 +2,7 @@
 
 ## Overview
 
-This MCP (Model Context Protocol) server allows LLMs like Claude to interact with the ESPN Fantasy Football API. It provides tools for accessing league data, team rosters, player statistics, and more through a standardized interface. It can work with both public and private ESPN Leagues.
+This MCP (Model Context Protocol) server allows LLMs like Claude to interact with the ESPN Fantasy API. It provides tools for accessing league data, team rosters, player statistics, and more through a standardized interface. It can work with both public and private ESPN Leagues.
 
 ## Features (MCP Tools)
 
