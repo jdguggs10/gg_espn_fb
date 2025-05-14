@@ -1,3 +1,7 @@
+# This is the LEGACY README from the original fork
+# Everything below is historic and may be out of date as of 05.13.2025
+###
+
 # ESPN Fantasy Football MCP Server
 
 ## Overview
